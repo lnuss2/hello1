@@ -8,6 +8,8 @@ public class HelloGit {
 
     	System.out.println("Landon Nuss");
         System.out.println("Computer Science!");
+        System.out.println("Ali Keshk");
+        System.out.println("Computer Science");
 
     }
 
